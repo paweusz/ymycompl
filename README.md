@@ -1,1 +1,1 @@
-# ymy.pl
+# ymy.com.pl

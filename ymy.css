@@ -1,0 +1,11 @@
+body {
+	background-color: #625a57;
+	background-image: url("img/ymy.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.motto {
+	color: white;
+font-family: 'Roboto', sans-serif;
+}
